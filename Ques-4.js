@@ -12,3 +12,4 @@
     console.log(x)
     })
     })
+//output: 3
